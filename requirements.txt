@@ -1,0 +1,7 @@
+matplotlib
+numpy
+torch
+the_well
+ipykernel
+tdqm
+huggingface-hub
